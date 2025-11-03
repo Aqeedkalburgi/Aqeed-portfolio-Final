@@ -287,7 +287,7 @@ function AboutSection() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-center"
           >
-            <div className="text-3xl font-bold text-blue-600 mb-2">2+</div>
+            <div className="text-3xl font-bold text-blue-600 mb-2">1+</div>
             <div className="text-gray-600">Years Experience</div>
           </motion.div>
           <motion.div
